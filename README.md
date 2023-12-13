@@ -1,14 +1,29 @@
-# Expo Router Example
+# React Dev Jobs App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+## Description
+React Dev Jobs is a mobile application built using React Native, designed to help developers find job opportunities in various categories like Full-Time, Part-Time, Internship, and Contractor roles. The app offers a user-friendly interface with features like job searching, filtering by job types, and viewing job details.
 
-## 🚀 How to use
+## Features
+- Job Search: Users can search for jobs using keywords.
+- Job Type Filtering: Allows users to filter jobs by Full-Time, Part-Time, Internship, or Contractor roles.
+- Nearby Jobs: Displays jobs available near the user's location.
+- Popular Jobs: Showcases popular job listings.
+- Detailed Job Information: Provides comprehensive details about each job listing.
 
-```sh
-npx create-expo-app -e with-router
-```
+## Installation
+To run the React Dev Jobs app, follow these steps:
 
-## 📝 Notes
+1. Clone the repository:
+   ```sh
+   git clone [repository URL]
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+3. Run the app:
+   ```sh
+    npx expo start        
+    ```
+
+## Screenshots
