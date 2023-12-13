@@ -28,3 +28,4 @@ To run the React Dev Jobs app, follow these steps:
 
 ## Screenshots
 ![react-dev-jobs2](https://github.com/davidamebley/react_dev_jobs/assets/81444138/1e37fb6d-af8d-4c4a-8bab-2e1a091bc275)
+![react-dev-jobs1](https://github.com/davidamebley/react_dev_jobs/assets/81444138/15b16bf9-bda3-427b-8ccb-6ab3bf83fc0c)
